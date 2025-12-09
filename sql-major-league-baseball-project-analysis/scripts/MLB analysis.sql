@@ -138,7 +138,6 @@ FROM dbo.players AS pl JOIN dbo.salaries AS sa
 							AND YEAR(pl.finalGame) = se.yearID
 WHERE sa.teamID = se.teamID AND se.yearID - sa.yearID > 10;
 
-
 -- PART IV: PLAYER COMPARISON ANALYSIS
 -- 1. View the players table
 select * from dbo.players;
@@ -204,3 +203,4 @@ Select *,--changer over decades
 	avg_weight-lag(avg_weight) over(order by debut_decade) as weight_change,
 	avg_height-lag(avg_height) over(order by debut_decade) as height_change
 from cte1
+
