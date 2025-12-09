@@ -1,4 +1,4 @@
-# sql-crm-opportunity-analysis
+# SQL-CRM-Opportunity-Analysis
 This project analyzes the sales opportunities pipeline for a company using the crm.sales_pipeline,srm.sales_teams and crm.products tables. It provides insights on:
       
 *Sales agent performance
@@ -12,4 +12,3 @@ This project analyzes the sales opportunities pipeline for a company using the c
 *Revenue and sales cycle metrics
 
 The goal is to help the sales team and management track performance, identify trends, and make data-driven decisions.
->>>>>>> crm/main
