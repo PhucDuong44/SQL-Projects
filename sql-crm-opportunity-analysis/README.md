@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sql-major-league-baseball-project-analysis
-=======
 # sql-crm-opportunity-analysis
 This project analyzes the sales opportunities pipeline for a company using the crm.sales_pipeline,srm.sales_teams and crm.products tables. It provides insights on:
       
