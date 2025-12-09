@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "# SQL Projects - Monorepo" 
 =======
 # sql-data-warehouse-project
@@ -130,4 +131,12 @@ Once we have **explored and understood** our datasets, the next step is to **ana
 ## **Conclusion**  
 This project demonstrates how to **build a scalable data warehouse** using SQL Server, following **best practices in ETL, data modeling, and star schema design**. The structured data enables data analysts and business users to derive meaningful insights for decision-making.
 >>>>>>> remote_1/main
+"# SQL Projects Monorepo" 
+=======
+# sql-data-analytics-project
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+>>>>>>> remote_2/main
 "# SQL Projects Monorepo" 
