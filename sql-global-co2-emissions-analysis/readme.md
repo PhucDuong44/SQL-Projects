@@ -34,7 +34,7 @@ This project explores global carbon dioxide (CO₂) emissions using the **Global
 
 ## 3. SQL Analysis
 
-### 3.1 Global Emissions Trend
+### Global Emissions Trend
 ```sql
 SELECT year, co2 AS fossil_fuel_emissions, co2_including_luc AS total_emissions
 FROM GCE.global_co2_data
