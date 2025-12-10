@@ -61,6 +61,10 @@ FROM GCE.global_co2_data
 WHERE country = 'World'
 GROUP BY year
 ORDER BY year;
+
+---
+
+
 ## 4. Tools & Environment
 - **Database:** Microsoft SQL Server  
 - **IDE:** SQL Server Management Studio (SSMS)  
@@ -73,4 +77,5 @@ ORDER BY year;
 - Land-use change emissions fluctuate but remain significant.  
 - Industrialized countries and regions have **higher per-capita emissions**.  
 - Policy-relevant insights can be drawn by comparing emissions by source (coal, oil, gas, cement, land use).
+
 ---
